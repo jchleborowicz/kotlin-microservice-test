@@ -1,0 +1,25 @@
+###
+POST http://localhost:8080/persons
+Content-Type: application/json
+
+{
+  "name": "Bart",
+  "age": 23,
+  "gender": "MALE"
+}
+
+###
+POST http://localhost:8080/persons
+Content-Type: application/json
+
+{
+  "name": "Tina",
+  "age": 36,
+  "gender": "FEMALE"
+}
+
+###
+http://localhost:8080/persons
+
+###
+http://localhost:8080/persons/1
