@@ -23,3 +23,6 @@ http://localhost:8080/persons
 
 ###
 http://localhost:8080/persons/1
+
+###
+http://localhost:8080/v3/api-docs
